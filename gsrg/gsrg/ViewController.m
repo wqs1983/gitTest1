@@ -17,6 +17,7 @@
     int ddd;
     int eee;
     int fff;
+    int  ggg;
 }
 
 - (void)viewDidLoad {
