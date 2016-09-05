@@ -15,6 +15,7 @@
 @implementation ViewController {
     int abc;
     int ddd;
+    int eee;
 }
 
 - (void)viewDidLoad {
