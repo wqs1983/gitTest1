@@ -18,6 +18,7 @@
     int eee;
     int fff;
     int  ggg;
+    int  kkk;
 }
 
 - (void)viewDidLoad {
