@@ -13,7 +13,7 @@
 @end
 
 @implementation ViewController {
-    int abc;
+    int abc = 111;
     int ddd;
     int eee;
     int fff;
